@@ -1,5 +1,5 @@
 [package]
-name = "kvm_vm"
+name = "diy_vm_kvm"
 version = "0.1.0"
 edition = "2021"
 
