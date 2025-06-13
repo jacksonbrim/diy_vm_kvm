@@ -39,7 +39,7 @@ After ensuring your system is properly set up, follow these steps to run the vir
 
 ## Troubleshooting
 
-- If encountering KVM permission errors, confirm your user is in the `kvm` group or try running the binary with `sudo`.
+- If encountering KVM permission errors, confirm your user is in the `kvm` group or try running the binary with `sudo /target/debug/kvm_vm`.
 
 - Ensure you're using the latest Rust version for compatibility; update Rust with `rustup update`.
 
